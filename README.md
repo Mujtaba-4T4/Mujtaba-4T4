@@ -1,20 +1,23 @@
-<h1  align="center">Muhammad Mujtaba Azeem</h1>
+<h1 align="center">Muhammad Mujtaba Azeem</h1>
 <h3 align="center">Python Developer | Machine Learning Engineer | Data Scientist</h3>
 
-<h3>About Me</h3>
-<p>
-  to-do
-</p>
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mujtaba-4T4/Mujtaba-4T4/output/snake.svg" alt="Snake animation showing last year's contributions" />
+</div>
+
+###
 
 ---
 
-<h3>Languages</h3>
-<div align="left">
+<h3 align="center">Languages:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 </div>
 
-<h3>Libraries & Frameworks</h3>
-<div align="left">
+<h3 align="center">Libraries & Frameworks:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
@@ -30,42 +33,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras logo" />
 </div>
 
-
-<h3>Tools</h3>
-<div align="left">
+<h3 align="center">Tools:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
   <img width="12" />
-  <!-- Google Colab fallback icon -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/768px-Google_Colaboratory_SVG_Logo.svg.png" height="40" alt="Google Colab logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
-  <img width="12" />
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mujtaba-4T4/Mujtaba-4T4/output/snake.svg" alt="Snake animation showing last year's contributions" />
 </div>
 
 ---
+<h3 align="center">Certifications</h3>
+<div align="center" style="font-size: 1.3em;">
+  <p>CS50P – Harvard</p>
+  <p>Machine Learning Specialization – Andrew Ng</p>
+</div>
 
-<h3>Certifications</h3>
-<ul>
-  <li>
-    <a href="https://cs50.harvard.edu/python/" target="_blank">
-      CS50P – Harvard
-    </a>
-  </li>
-  <li>
-    <a href="https://www.coursera.org/specializations/machine-learning-introduction" target="_blank">
-      Machine Learning Specialization – Andrew Ng
-    </a>
-  </li>
-</ul>
 
 ---
 
@@ -75,5 +60,3 @@
   <a href="https://your-portfolio-link.com">Portfolio</a> • 
   <a href="https://huggingface.co/your-username">Hugging Face</a>
 </p>
-
-
