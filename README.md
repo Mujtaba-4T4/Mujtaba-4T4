@@ -1,5 +1,3 @@
-<h1 align="center">Muhammad Mujtaba Azeem</h1>
-<h3 align="center">Python Developer | Machine Learning Engineer | Data Scientist</h3>
 
 ###
 
@@ -44,19 +42,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
 </div>
 
----
-<h3 align="center">Certifications</h3>
-<div align="center" style="font-size: 1.3em;">
-  <p>CS50P – Harvard</p>
-  <p>Machine Learning Specialization – Andrew Ng</p>
-</div>
-
-
----
-
-<p align="center">
-  <a href="https://your-linkedin.com">LinkedIn</a> • 
-  <a href="mailto:your-email@example.com">Email</a> • 
-  <a href="https://your-portfolio-link.com">Portfolio</a> • 
-  <a href="https://huggingface.co/your-username">Hugging Face</a>
-</p>
